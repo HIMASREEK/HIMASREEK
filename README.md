@@ -2,23 +2,26 @@
 
 ## 👩‍💻 Who am I
 I am a Computer Science Engineering student passionate about software development and web technologies.  
-I enjoy building practical projects, learning new tools, and improving my skills in Python and Django.
+I enjoy building real-world projects, solving problems, and continuously improving my skills in backend and full-stack development.
 
 ## 🚀 What am I currently working on
-- Building real-world web development projects using Django and Python  
-- Exploring backend development and REST APIs  
-- Improving my problem-solving and project development skills  
-- Working on creative and practical software ideas  
+- Building web applications using **Python, Django, and Flask**
+- Exploring **RESTful APIs** and backend development
+- Working on practical projects to strengthen my full-stack development skills
+- Improving my problem-solving skills through hands-on coding and development
 
 ## 🛠️ What tools do I use
-- **Languages:** Python, HTML, CSS, JavaScript  
-- **Frameworks:** Django, Django REST Framework  
-- **Database:** SQLite, MySQL  
-- **Tools & Platforms:** Git, GitHub, VS Code, Postman  
+
+### **Technical Skills**
+- **Programming Languages:** Python, JavaScript  
+- **Backend & Frameworks:** Django, Flask, RESTful APIs, API Development  
+- **Frontend:** HTML5, CSS3, Bootstrap, React.js  
+- **Databases:** MySQL, SQLite, MongoDB  
+- **Tools & Technologies:** Git, GitHub, GitHub Actions, Visual Studio Code, PyCharm, Eclipse  
 
 ## 📫 How to reach me
-- **LinkedIn:** [Your LinkedIn Link Here](#)  
-- **Email:** your-email@example.com  
+- **LinkedIn:** [www.linkedin.com/in/himasree28](#)  
+- **Email:** himasreekarunakaran2812@gmail.com 
 
 ---
-⭐ Always learning, building, and growing as a developer.
+✨ Passionate about learning, building, and growing as a developer.
