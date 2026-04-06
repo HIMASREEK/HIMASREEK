@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Himasree 👋
 
-<!--
-**HIMASREEK/HIMASREEK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Who am I
+I am a Computer Science Engineering student passionate about software development and web technologies.  
+I enjoy building practical projects, learning new tools, and improving my skills in Python and Django.
 
-Here are some ideas to get you started:
+## 🚀 What am I currently working on
+- Building real-world web development projects using Django and Python  
+- Exploring backend development and REST APIs  
+- Improving my problem-solving and project development skills  
+- Working on creative and practical software ideas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What tools do I use
+- **Languages:** Python, HTML, CSS, JavaScript  
+- **Frameworks:** Django, Django REST Framework  
+- **Database:** SQLite, MySQL  
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman  
+
+## 📫 How to reach me
+- **LinkedIn:** [Your LinkedIn Link Here](#)  
+- **Email:** your-email@example.com  
+
+---
+⭐ Always learning, building, and growing as a developer.
