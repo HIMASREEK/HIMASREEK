@@ -20,7 +20,7 @@ I enjoy building real-world projects, solving problems, and continuously improvi
 - **Tools & Technologies:** Git, GitHub, GitHub Actions, Visual Studio Code, PyCharm, Eclipse  
 
 ## 📫 How to reach me
-- **LinkedIn:** [www.linkedin.com/in/himasree28](#)  
+- **LinkedIn:** [www.linkedin.com/in/himasree28](https://www.linkedin.com/in/himasree28/)  
 - **Email:** himasreekarunakaran2812@gmail.com 
 
 ---
